@@ -1,4 +1,5 @@
 # Adapting the DORA Score for Teams: A Guide to Measuring Software Delivery and Operational Performance Using Benchmarks
+# Authored by Rob Beneson and Damon Gray
 
 # Introduction
 
